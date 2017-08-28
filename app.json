@@ -1,0 +1,15 @@
+{
+    "name": "Rwhytsell.me",
+    "description": "Personal site of Ryan Whytsell",
+    "keywords": [],
+    "website": "https://rwhytsell.me/",
+    "repository": "https://github.com/rwhytsell/rwhytsell.me",
+    "logo": "img/logo.svg",
+    "success_url": "/index",
+    "image": "heroku/ruby",
+    "buildpacks": [
+      {
+        "url": "https://github.com/heroku/heroku-buildpack-php"
+      }
+    ]
+  }
