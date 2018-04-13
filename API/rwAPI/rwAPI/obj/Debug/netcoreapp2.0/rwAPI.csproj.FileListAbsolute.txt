@@ -1,0 +1,10 @@
+/home/user/Projects/rwhytsell.me/API/rwAPI/rwAPI/bin/Debug/netcoreapp2.0/rwAPI.deps.json
+/home/user/Projects/rwhytsell.me/API/rwAPI/rwAPI/bin/Debug/netcoreapp2.0/rwAPI.runtimeconfig.json
+/home/user/Projects/rwhytsell.me/API/rwAPI/rwAPI/bin/Debug/netcoreapp2.0/rwAPI.runtimeconfig.dev.json
+/home/user/Projects/rwhytsell.me/API/rwAPI/rwAPI/bin/Debug/netcoreapp2.0/rwAPI.dll
+/home/user/Projects/rwhytsell.me/API/rwAPI/rwAPI/bin/Debug/netcoreapp2.0/rwAPI.pdb
+/home/user/Projects/rwhytsell.me/API/rwAPI/rwAPI/obj/Debug/netcoreapp2.0/rwAPI.csproj.CoreCompileInputs.cache
+/home/user/Projects/rwhytsell.me/API/rwAPI/rwAPI/obj/Debug/netcoreapp2.0/rwAPI.AssemblyInfoInputs.cache
+/home/user/Projects/rwhytsell.me/API/rwAPI/rwAPI/obj/Debug/netcoreapp2.0/rwAPI.AssemblyInfo.cs
+/home/user/Projects/rwhytsell.me/API/rwAPI/rwAPI/obj/Debug/netcoreapp2.0/rwAPI.dll
+/home/user/Projects/rwhytsell.me/API/rwAPI/rwAPI/obj/Debug/netcoreapp2.0/rwAPI.pdb
